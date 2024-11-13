@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\MyForm.h(140,45): error C2512: 'GUICPPkel27::LoginForm::LoginForm': no appropriate default constructor available
+  (compiling source file 'MyForm.cpp')
+      C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\MyForm.h(140,45):
+      while trying to match the argument list '()'
+  

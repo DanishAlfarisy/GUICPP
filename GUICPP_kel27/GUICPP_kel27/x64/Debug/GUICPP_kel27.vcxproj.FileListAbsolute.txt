@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPP_kel27.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPPkel27.MyForm.resources
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPP_kel27.vcxproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPPkel27.MyForm1.resources
